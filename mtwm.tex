@@ -1,21 +1,135 @@
 \documentclass{memoir}
 
-\usepackage[top=1in,bottom=1in,left=1in,right=1in,letterpaper]{geometry}
+
+\usepackage{hyperref}
+
+%%% Page geometry
+\usepackage[
+  paperwidth=8.5in,
+  paperheight=8.5in,
+  layoutwidth=8.5in,
+  layoutheight=8.5in,
+  vmargin=0.5in,
+  outer=0.5in,
+  inner=0.75in,
+  includeheadfoot,
+  twoside
+]{geometry}
+
+%%% Font
+\usepackage{fontspec}
+\setmainfont{Gentium Book Basic}
+\newfontfamily\titlefamily{Ubuntu}
+\newfontface\titlefont{Ubuntu}
+\newfontface\urlfont{Ubuntu Mono}
+
+%%% Graphics
 \usepackage{graphicx}
+
+%%% Table of contents
+\renewcommand{\contentsname}{\titlefamily FOOD}
+% flushright chapter numbers
+\renewcommand{\cftchapterfont}{\normalfont\titlefamily\bfseries}
+\renewcommand{\cftsectionfont}{\normalfont\titlefamily}
+\setlength{\cftbeforechapterskip}{1.8ex}
+\setlength{\cftbeforesectionskip}{0.75ex}
+\renewcommand{\cftdot}{\small{$\cdot$}}
+\renewcommand{\cftchapterdotsep}{10000}
+\renewcommand{\cftsectiondotsep}{3}
+\renewcommand*\tocheadstart{}{}
+
+%%% Headers and chapters
+\let\footruleskip\undefined
+\DisemulatePackage{setspace}
+\usepackage[pagestyles]{titlesec}
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+% arcana style with fancy headers and chapter headings
+\fancypagestyle{fancyplain}{
+  % headers
+  \fancyhf{}
+  \fancyhf[FRO,FLE]{\titlefamily\thepage}
+  \fancyhf[HLE]{\titlefamily\chaptertitle}
+  \fancyhf[HRO]{\titlefamily MEALTIME WITH MADDY}
+
+  %%% With inner headers
+  % \fancyhf[HLE,HRO]{\titlefamily\textit{Arcana}}
+  % \fancyhf[HLO]{\pfdfamily\itshape\arcstoryauthor}
+  % \fancyhf[HRE]{\titlefamily\ifthenelse{\equal{\arcsubheading}{}}{\chaptertitle}{\chaptertitle\normalfont\ --- {\pfdfamily\arcsubheading}}}
+  \renewcommand{\headrulewidth}{0.5pt}
+  \renewcommand{\chapterheadstart}{}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\printchapternum}{}
+  \renewcommand{\afterchapternum}{}
+  \renewcommand{\printchaptertitle}[1]{%
+  \titlefamily\raggedright\Huge{##1}}
+  \renewcommand{\afterchaptertitle}{%
+  \vskip\onelineskip \hrule\vskip\onelineskip}
+  \setbeforesecskip{1ex}
+  \setaftersecskip{1ex}
+  \setlength{\parskip}{0pt}
+}
+\fancypagestyle{afterword}{
+  % headers - same for arcana pagestyle
+  \fancyhf{}
+  \fancyhf[FRO,FLE]{\titlefamily\thepage}
+  \fancyhf[HLE,HRO]{\titlefamily MEALTIME WITH MADDY}
+  % chapter headings with card names - same for arcana pagestyle
+  \renewcommand{\headrulewidth}{0.5pt}
+  \renewcommand{\chapterheadstart}{}
+  \renewcommand{\printchaptername}{}
+  \renewcommand{\chapternamenum}{}
+  \renewcommand{\printchapternum}{}
+  \renewcommand{\afterchapternum}{}
+  % this is the only changed command from arcana: remove \thechapter from chapter header
+  \renewcommand{\printchaptertitle}[1]{%
+  \titlefamily\raggedright\Huge{\hspace{2em} ##1}}
+  \renewcommand{\afterchaptertitle}{%
+  \vskip\onelineskip \hrule\vskip\onelineskip}
+  \setbeforesecskip{1ex}
+  \setaftersecskip{1ex}
+}
+% plain style with only page num
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \renewcommand{\headrulewidth}{0pt}
+  \renewcommand{\footrulewidth}{0pt}
+  \fancyhf[FRO,FLE]{\thepage}
+}
+% single space after periods
+\frenchspacing
+% Attempt justification at all costs
+\sloppy
+
 
 \begin{document}
 \frontmatter
-\includegraphics[width=\textwidth]{cover.png}
-\thispagestyle{empty}
+
+\pagestyle{empty}
+\includegraphics[width=6.5in]{inner-cover.png}
 \newpage
 
-\includegraphics[width=\textwidth]{inner-cover.png}
-\thispagestyle{empty}
+\null
+\vfill
+
+\titlefont MEALTIME WITH MADDY \copyright Madison Scott-Clary, 2017
+
+\vspace{1ex}
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License
+
+\vspace{1ex}
+
+For more information, see \mbox{\urlfont https://creativecommons.org/licenses/by-sa/4.0/}
+
+\vfill
 \newpage
 
-% Title page
-
+\pagestyle{fancyplain}
 \tableofcontents*
+
+\normalfont
 
 \chapter*{Dedication}
 
@@ -25,12 +139,12 @@
   To Jenn\\
   To the dogs\\
   \vin Zephyr and Falcon\\
-  and to the idea\\
-  \vin if not exactly the implementation\\
-  \vin \vin of Twitter.
+  And to the idea\\
+  \vin If not exactly the implementation\\
+  \vin \vin Of Twitter.
 \end{verse}
 
-\chapter{About}
+\chapter[About]{About}
 
 \mainmatter
 
@@ -58,30 +172,72 @@
 
 \include{12-sichuan-beans/content}
 
-TIP make extra oil
-
 \include{13-kimchi-3/content}
-
-Jarring baek kimchi
 
 \include{14-mul-naengmyeon/content}
 
-Using mulkimchi
-
 \include{15-okonomiyaki/content}
-
-TIP use baek kimchi
 
 \include{16-orange-sauce/content}
 
 \include{17-green-chili/content}
 
-\include{18-snazzy-beans/content}
+\include{18-baba-ganoush/content}
 
 \include{19-preserved-lemons-3/content}
 
 \include{20-mac-n-cheese/content}
 
 \include{21-bananas-foster/content}
+
+\backmatter
+
+\chapter[Glossary]{Glossary}
+
+\begin{description}
+  \item[Embarrass] To prepare by removing an integral (but unwanted) part. E.g: to remove the seeds from inside a pepper.
+  \item[Fuck up] To chop or cut without too much care for size. E.g: fucking up an onion into cubes.
+  \item[Heck up] To introduce to in a loving manner. E.g: hecking up a pan by adding ingredients.
+\end{description}
+
+\chapter[Recipes]{Recipes}
+
+I love yelling about food, but I figure those aren't exactly easy-to-follow instructions. Here are the legit recipes for the mealstime with Maddy earlier in the book.
+
+\newpage
+
+\include{01-ghee/recipe}
+
+\include{02-dal/recipe}
+
+\include{03-preserved-lemons-1/recipe}
+
+\include{04-summer-salad/recipe}
+
+\include{05-tabbouleh/recipe}
+
+\include{07-shakshouka/recipe}
+
+\include{08-tamago-kake-gohan/recipe}
+
+\include{09-kimchi-1/recipe}
+
+\include{10-juk/recipe}
+
+\include{12-sichuan-beans/recipe}
+
+\include{14-mul-naengmyeon/recipe}
+
+\include{15-okonomiyaki/recipe}
+
+\include{16-orange-sauce/recipe}
+
+\include{17-green-chili/recipe}
+
+\include{18-baba-ganoush/recipe}
+
+\include{20-mac-n-cheese/recipe}
+
+\include{21-bananas-foster/recipe}
 
 \end{document}

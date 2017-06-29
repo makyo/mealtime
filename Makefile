@@ -1,8 +1,8 @@
 .PHONY: default
 default:
-	pdflatex mtwm.tex
+	xelatex mtwm.tex
 
 .PHONY: toc
 toc:
-	pdflatex mtwm.tex
-	pdflatex mtwm.tex
+	xelatex mtwm.tex
+	xelatex mtwm.tex
