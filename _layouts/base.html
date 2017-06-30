@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% if page.title %}{{page.title}} | {% endif %}MEALTIME WITH MADDY</title>
+    <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+</head>
+<body>
+    <main>
+        <header>
+            <img src="/assets/images/banner.png" alt="MEALTIME WITH MADDY - LOUD FOOD with MADISON SCOTT-CLARY" />
+            <nav>
+                <ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/food">Food</a></li>
+                    <li><a href="/book">Book</a></li>
+                    <li><a href="/about">About</a></li>
+                </ul>
+            </nav>
+        </header>
+        <section>
+            {% if page.title %}<header><h2>{{ page.title }}</h2></header>{% endif %}
+            <div class="content">
+                {{ content }}
+            </div>
+        </section>
+        <footer>
+            <img src="/assets/images/footer.png" alt="&copy; Madison Scott-Clary | Licensed under a Creative Commons Attribution-ShareAlike 4.0 International license" />
+        </footer>
+    </main>
+</html>
