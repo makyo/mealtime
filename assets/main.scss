@@ -1,0 +1,110 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css?family=Gentium+Book+Basic|Ubuntu:400,700');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Gentium Book Basic", "Times New Roman", serif;
+}
+
+a {
+    font-family: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+main {
+    header, footer {
+        position: relative;
+
+        nav {
+            position: absolute;
+            bottom: 1em;
+            width: 100%;
+            background-color: rgba(255, 255, 255, 0.3);
+
+            ul {
+                list-style-type: none;
+                text-align: center;
+
+                li {
+                    display: inline-block;
+                    margin: 0;
+                    padding: 1rem;
+
+                    a, a:visited, a:active, a:hover {
+                        font-family: "Ubuntu", sans-serif;
+                        font-weight: 700;
+                        font-size: 20pt;
+                        text-shadow: -3px -3px 0px rgba(0, 0, 0, 1);
+                        color: #fff;
+                        text-decoration: none;
+                        text-transform: uppercase;
+                    }
+                }
+            }
+        }
+        img {
+            width: 100%;
+        }
+    }
+
+    section {
+        margin: 1em auto;
+        max-width: 960px;
+        min-height: 200px;
+        line-height: 1.7;
+        font-size: 14pt;
+
+        p {
+            padding-bottom: 1.2rem;
+        }
+
+        strong {
+            text-transform: uppercase;
+        }
+
+        dt {
+            text-transform: uppercase;
+            font-size: 16pt;
+            font-weight: 700;
+            font-family: "Ubuntu", sans-serif;
+        }
+
+        dd {
+            margin: 0 0 1em 1em;
+        }
+
+        .post {
+            h2 {
+                text-align: left;
+                small {
+                    display: block;
+                }
+            }
+        }
+
+        .hero {
+            text-align: center;
+            background-color: #eee;
+            border: 1px solid transparent;
+            border-radius: 10px;
+            font-size: 16pt;
+            text-transform: uppercase;
+            padding: 1rem;
+            font-family: "Ubuntu", sans-serif;
+            font-weight: 700;
+            margin: 1rem auto;
+
+            img {
+                max-width: 100%;
+            }
+        }
+    }
+}

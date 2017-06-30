@@ -1,4 +1,9 @@
+_site
+.sass-cache
+.jekyll-metadata
+.bundle
+_site
+*.toc
 *.aux
 *.log
-*.toc
 *.out
