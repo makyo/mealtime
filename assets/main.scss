@@ -41,15 +41,6 @@ hr.clearfix {
     clear: both;
 }
 
-@media only screen and (min-width: 960px) {
-    main > header h1 {
-        font-size: 72pt;
-        small {
-            font-size: 32pt;
-        }
-    }
-}
-
 main {
 
     & > header {
@@ -65,12 +56,13 @@ main {
         h1 {
             padding: 1.5rem 0;
             color: #fff;
-            text-shadow: -12px -10px 0px rgba(0, 0, 0, 0.8);
+            text-shadow: -0.4rem -0.3rem 0px rgba(0, 0, 0, 0.8);
 
             small {
-                text-shadow: -7px -6px 0px rgba(0, 0, 0, 0.8);
+                font-size: 70%;
                 display: block;
                 color: #fff;
+                text-shadow: -0.3rem -0.2rem 0px rgba(0, 0, 0, 0.8);
             }
         }
 
@@ -89,14 +81,12 @@ main {
 
                     a, a:visited, a:active, a:hover {
                         font-size: 20pt;
+                        font-weight: 700;
                         text-shadow: -3px -3px 0px rgba(0, 0, 0, 0.8);
                         text-transform: uppercase;
                     }
                 }
             }
-        }
-        img {
-            width: 100%;
         }
     }
 
@@ -108,7 +98,7 @@ main {
             text-align: center;
             font-size: 20pt;
             color: #fff;
-            text-shadow: -5px -4px 0px rgba(0, 0, 0, 0.8);
+            text-shadow: -4px -3px 0px rgba(0, 0, 0, 0.8);
             font-family: "Ubuntu", sans-serif;
             font-weight: 700;
         }
@@ -168,6 +158,17 @@ main {
             img {
                 max-width: 100%;
             }
+        }
+    }
+}
+
+@media only screen and (min-width: 960px) {
+    main > header h1 {
+        font-size: 72pt;
+        text-shadow: -12px -10px 0px rgba(0, 0, 0, 0.8);
+        small {
+            font-size: 32pt;
+            text-shadow: -6px -5px 0px rgba(0, 0, 0, 0.8);
         }
     }
 }
