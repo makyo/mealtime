@@ -41,6 +41,15 @@ hr.clearfix {
     clear: both;
 }
 
+@media only screen and (min-width: 960px) {
+    main > header h1 {
+        font-size: 72pt;
+        small {
+            font-size: 32pt;
+        }
+    }
+}
+
 main {
 
     & > header {
@@ -54,16 +63,13 @@ main {
         }
 
         h1 {
-            word-wrap: break-word;
             padding: 1.5rem 0;
-            font-size: 72pt;
             color: #fff;
             text-shadow: -12px -10px 0px rgba(0, 0, 0, 0.8);
 
             small {
                 text-shadow: -7px -6px 0px rgba(0, 0, 0, 0.8);
                 display: block;
-                font-size: 32pt;
                 color: #fff;
             }
         }
