@@ -15,7 +15,7 @@ I cook because food is **so good.**
 
 ## BOOK?????
 
-Yeah, there's a book coming, but you'll hAVE TO WAIT JEEZ.
+**Yeah, there's a book coming, but you'll have to wait jeez.**
 
 ## WHY AM I YELLING
 
