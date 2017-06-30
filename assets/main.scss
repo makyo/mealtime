@@ -7,10 +7,22 @@
     margin: 0;
     padding: 0;
     font-family: "Gentium Book Basic", "Times New Roman", serif;
+    color: #222;
 }
 
 a {
     font-family: inherit;
+    text-decoration: none;
+    border-bottom: 1px dotted #888;
+    color: #822;
+
+    &:active, &:hover {
+        color: #282;
+    }
+
+    &:visited {
+        color: #228;
+    }
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -39,6 +51,7 @@ main {
                     padding: 1rem;
 
                     a, a:visited, a:active, a:hover {
+                        border: none;
                         font-family: "Ubuntu", sans-serif;
                         font-weight: 700;
                         font-size: 20pt;
