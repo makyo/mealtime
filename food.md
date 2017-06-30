@@ -22,7 +22,7 @@ Juk
 :   A simple rice porridge, also known as congee.
 
 [Kimchi](http://imgur.com/gallery/VA8vo)
-:   The quintessential Korean food, working as an ingredient, dish, condiment, or side. Includes *two* recipes!
+:   The quintessential Korean food, working as an ingredient, dish, condiment, or side. Includes ~~two~~ *three* recipes!
 
 [Mac & Cheese](http://imgur.com/gallery/gXmTT)
 :   Mac from scratch, good for a filling meal or a hearty side.

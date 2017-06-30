@@ -2,11 +2,16 @@
 layout: page
 ---
 
-<blockquote class="hero">MEALTIME WITH MADDY IS A PLACE FOR COOKING LOUDLY BECAUSE OMIGOSH FOOD</blockquote>
+<blockquote class="hero">
+    <p>Mealtime with Maddy is a place for cooking loudly because omigosh food</p>
+    <p>Come for the recipes and tips, stay for the hollering</p>
+    <img src="/assets/images/inner-cover.s.png" />
+</blockquote>
 
+<h2>Updates</h2>
 {% for post in site.posts %}
 <div class="post">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small></h2>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small></h3>
     <p>{{ post.excerpt|markdownify }}</p>
 </div>
 {% endfor %}
