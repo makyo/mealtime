@@ -3,7 +3,7 @@ layout: page
 title: I LOVE FOOD HOLY FUCK
 ---
 
-<img src="/assets/images/maddypaws.jpg" style="max-width: 400px; float: left; margin: 1em;"/>
+<img src="/assets/images/maddypaws.s.jpg" style="max-width: 400px; float: left; margin: 1em;"/>
 
 I'm not, like, a super good cook or anything. Not a chef.
 

@@ -84,6 +84,18 @@ main {
                         font-weight: 700;
                         text-shadow: -3px -3px 0px rgba(0, 0, 0, 0.8);
                         text-transform: uppercase;
+
+                        svg {
+                            height: 20pt;
+
+                            .shadow {
+                                fill: #000;
+                            }
+
+                            use {
+                                fill: #fff;
+                            }
+                        }
                     }
                 }
             }
