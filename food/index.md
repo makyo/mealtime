@@ -3,31 +3,31 @@ layout: page
 title: FOOD
 ---
 
-[Dal](http://imgur.com/gallery/4jHAi)
+[Dal](http://imgur.com/gallery/4jHAi)↗
 :   Hearty lentil stew with plenty of flavor from cumin, fried tomato, and preserved lemon.
 
-[Green chili](http://imgur.com/gallery/4FHBO)
+[Green chili](http://imgur.com/gallery/4FHBO)↗
 :   Green chili leaning heavily on roasted tomatoes and chipotles in adobo for a full flavor and warm spice.
 
-[Kimchi](http://imgur.com/gallery/VA8vo)
+[Kimchi](http://imgur.com/gallery/VA8vo)↗
 :   The quintessential Korean food, working as an ingredient, dish, condiment, or side. Includes ~~two~~ *three* recipes!
 
 [Mac & Cheese](mac-n-cheese)
 :   Mac from scratch, good for a filling meal or a hearty side.
 
-[Orange sauce](http://imgur.com/gallery/FPrnb)
+[Orange sauce](http://imgur.com/gallery/FPrnb)↗
 :   A garlic- and chipotle-based sauce that contains no oranges.
 
-[Sichuan dry-fried green beans](http://imgur.com/gallery/t9ZPK)
+[Sichuan dry-fried green beans](http://imgur.com/gallery/t9ZPK)↗
 :   Green beans cooked with plenty of garlic, ginger, birds-eye peppers, and Sichuan peppercorns. This recipe skips the frying part and goes for broiling instead.
 
-[Summer salad](http://imgur.com/gallery/kHZrG)
+[Summer salad](http://imgur.com/gallery/kHZrG)↗
 :   A cooling salad based around tomatoes, cucumbers, and onions.
 
-[Tabbouleh](http://imgur.com/gallery/TODVf)
+[Tabbouleh](http://imgur.com/gallery/TODVf)↗
 :   An herb- and grain-based salad that can make a meal of its own.
 
-[Tamago kake gohan](http://imgur.com/gallery/ZYruG)
+[Tamago kake gohan](http://imgur.com/gallery/ZYruG)↗
 :   Simple dish which uses the heat from freshly made rice to cook egg and soy-sauce into a creamy texture.
 
 ## Coming soon
