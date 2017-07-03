@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<blockquote class="hero">
+<blockquote class="hero half">
     <p>Mealtime with Maddy is a place for cooking loudly because omigosh food</p>
     <p>Come for the recipes and tips, stay for the hollering</p>
     <img src="/assets/images/inner-cover.s.png" />
@@ -12,6 +12,7 @@ layout: page
 {% for post in site.posts %}
 <div class="post">
     <h3><a href="{{ post.url }}">{{ post.title }}</a> <small>{{ post.date | date: "%b %-d, %Y" }}</small></h3>
-    <p>{{ post.excerpt|markdownify }}</p>
+    <p>{{ post.content|markdownify }}</p>
 </div>
 {% endfor %}
+<hr class="clearfix" />

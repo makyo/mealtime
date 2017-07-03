@@ -12,7 +12,7 @@ title: FOOD
 [Kimchi](http://imgur.com/gallery/VA8vo)
 :   The quintessential Korean food, working as an ingredient, dish, condiment, or side. Includes ~~two~~ *three* recipes!
 
-[Mac & Cheese](http://imgur.com/gallery/gXmTT)
+[Mac & Cheese](mac-n-cheese)
 :   Mac from scratch, good for a filling meal or a hearty side.
 
 [Orange sauce](http://imgur.com/gallery/FPrnb)
