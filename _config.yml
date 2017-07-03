@@ -6,3 +6,6 @@ baseurl: ""
 url: "http://mealtime.with.maddypa.ws"
 twitter_username: loudfood
 github_username:  makyo
+
+gems:
+  - jekyll-feed
