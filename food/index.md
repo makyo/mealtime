@@ -11,7 +11,7 @@ title: FOOD
 ### Regions
 
 [Asian](categories/asian)
-:   Dishes from China, Japan and Korea, down to south-east asia, and over to the Indian subcontinent.
+:   Dishes from China, to Japan and Korea, down to Southeast Asia, and over to the Indian subcontinent.
 
 [Middle Eastern](categories/middle-eastern)
 :   Dishes from the Middle East, north Africa, and parts of the Mediterranean.
