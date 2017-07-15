@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Additions: condiments, ingredients, and bases
+title: "Additions: condiments, ingredients, and bases"
 ---
 
 [Garam masala](../garam-masala)

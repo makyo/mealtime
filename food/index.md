@@ -3,64 +3,52 @@ layout: page
 title: FOOD
 ---
 
-[Dal](http://imgur.com/gallery/4jHAi)↗
-:   Hearty lentil stew with plenty of flavor from cumin, fried tomato, and preserved lemon.
+### Recent <!--- Maddy: last five -->
 
-[Green chili](http://imgur.com/gallery/4FHBO)↗
-:   Green chili leaning heavily on roasted tomatoes and chipotles in adobo for a full flavor and warm spice.
-
-[Kimchi](http://imgur.com/gallery/VA8vo)↗
-:   The quintessential Korean food, working as an ingredient, dish, condiment, or side. Includes ~~two~~ *three* recipes!
-
-[Mac & Cheese](mac-n-cheese)
+[Mac & Cheese](mac-n-cheese) --- *July, 2017*
 :   Mac from scratch, good for a filling meal or a hearty side.
 
-[Orange sauce](http://imgur.com/gallery/FPrnb)↗
-:   A garlic- and chipotle-based sauce that contains no oranges.
+### Regions
 
-[Sichuan dry-fried green beans](http://imgur.com/gallery/t9ZPK)↗
-:   Green beans cooked with plenty of garlic, ginger, birds-eye peppers, and Sichuan peppercorns. This recipe skips the frying part and goes for broiling instead.
+[Asian](categories/asian)
+:   Dishes from China, Japan and Korea, down to south-east asia, and over to the Indian subcontinent.
 
-[Summer salad](http://imgur.com/gallery/kHZrG)↗
-:   A cooling salad based around tomatoes, cucumbers, and onions.
+[Middle Eastern](categories/middle-eastern)
+:   Dishes from the Middle East, north Africa, and parts of the Mediterranean.
 
-[Tabbouleh](http://imgur.com/gallery/TODVf)↗
-:   An herb- and grain-based salad that can make a meal of its own.
+[Western](categories/western)
+:   Dishes from Europe, the UK, and the Americas.
 
-[Tamago kake gohan](http://imgur.com/gallery/ZYruG)↗
-:   Simple dish which uses the heat from freshly made rice to cook egg and soy-sauce into a creamy texture.
+### Courses
 
-## Coming soon
+[Starters](categories/starters)
+:   Dishes to start a meal with.
 
-Baba ganoush
-:   Roasty toasty eggplant-based dip, spread, or sauce, thickened with tahini.
+[Sides](categories/sides)
+:   Dishes for serving alongside a main dish or dishes meant to be served in combination with many dishes as a main course.
 
-Bananas foster
-:   Bananas in a rich sauce enanced by **fire**.
+[Mains](categories/mains)
+:   Dishes intended to be the heart of the meal.
 
-Champurrado
-:   A rich hot chocolate thickened by harina, a take on atole.
+[Desserts](categories/desserts)
+:   Sweet treats for the end of the meal.
 
-Chana Masala
-:   A spicy chickpea curry dish.
+[Condiments, ingredients, and bases](categories/additions)
+:   Recipes for ingredients to be used in other dishes, from spice mixtures to pickles to mother sauces.
 
-Ghee
-:   A nutty and healthy browned and clarified butter.
+### Preparations
 
-Israeli couscous and mushroom salad
-:   A savory dish of mushrooms and pearl pasta to be enjoyed hot or cold.
+[Gluten-free foods](categories/gluten-free)
+:   Foods prepared without ingredients containing gluten.
 
-Juk
-:   A simple rice porridge, also known as congee.
+[Raw foods](categories/raw)
+:   Foods prepared with little to no heat, leaving ingredients largely intact.
 
-Mul-naengmyeon
-:   A chilled noodle soup based off kimchi broth.
+[Slow foods](categories/slow)
+:   Foods wherein time is an ingredient. Fermentation, drying, curing, etc.
 
-Okonomiyaki
-:   A savory pancake based off cabbage (or kimchi!).
+[Vegan foods](categories/vegan)
+:   Foods made from plants, without using anything made of or by animals.
 
-Preserved lemons
-:   Salted lemons and spices come together over months into a combination condiment and ingredient.
-
-Shakshouka
-:   A Tunisian tomato- and chili-based sauce/dish spiced with cumin in which eggs are poached.
+[Vegan (with simple substitutions)](categories/vegan-with-substitute)
+:   Dishes presented as non-vegan, but which are easily made vegan through a simple substitution.
