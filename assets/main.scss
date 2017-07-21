@@ -145,6 +145,19 @@ main {
             margin: 0 0 1em 1em;
         }
 
+        img {
+            max-width: 100%;
+        }
+
+        .ingredients {
+            tr td:first-of-type {
+                text-align: right;
+                font-style: italic;
+                font-weight: bold;
+                padding-right: 0.5rem;
+            }
+        }
+
         .post {
             h3 {
                 &, & small {

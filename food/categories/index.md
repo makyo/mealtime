@@ -11,6 +11,9 @@ title: Categories
 [Middle Eastern](middle-eastern)
 :   Dishes from the Middle East, north Africa, and parts of the Mediterranean.
 
+[Slavic and Nordic](slavic-nordic)
+:   Dishes from Slavic (Russia and Eastern Europe) and Nordic (Scandinavia, Greenland, and Iceland) countries.
+
 [Western](western)
 :   Dishes from Europe, the UK, and the Americas.
 

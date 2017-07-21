@@ -14,7 +14,10 @@ title: FOOD
 :   Dishes from China, to Japan and Korea, down to Southeast Asia, and over to the Indian subcontinent.
 
 [Middle Eastern](categories/middle-eastern)
-:   Dishes from the Middle East, north Africa, and parts of the Mediterranean.
+:   Dishes from the Middle East, North Africa, and parts of the Mediterranean.
+
+[Slavic and Nordic](slavic-nordic)
+:   Dishes from Slavic (Russia and Eastern Europe) and Nordic (Scandinavia, Greenland, and Iceland) countries.
 
 [Western](categories/western)
 :   Dishes from Europe, the UK, and the Americas.
