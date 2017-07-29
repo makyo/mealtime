@@ -102,7 +102,7 @@ Feel free to go nuts with it, though. You're all grown up.
 ---|---
 1&frac12; cups | short-grain rice
 2 cups | water
-1 egg | egg
+1 | egg
 idk like a tbsp | soy sauce
 some | veg
 maybe also some | spice. Gochujang, sriracha, chili oil, sesame seeds, etc.
