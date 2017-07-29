@@ -5,7 +5,13 @@ title: FOOD
 
 ### Recent <!--- Maddy: last five -->
 
-[Mac & Cheese](mac-n-cheese) --- *July, 2017*
+[Tamago kake gohan](tamago-kake-gohan) --- *July, 2017*
+:   A simple dish of egg and soy sauce stirred into hot rice.
+
+[Crangeolli slush](crangeolli-slush) --- *July, 2017*
+:   A frozen treat of makgeolli granita and cranberry shrub, tempered by ginger ale.
+
+[Mac & cheese](mac-n-cheese) --- *July, 2017*
 :   Mac from scratch, good for a filling meal or a hearty side.
 
 ### Regions

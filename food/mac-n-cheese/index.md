@@ -4,7 +4,7 @@ title: MAC'N'CHEESE
 ---
 
 <div class="hero">
-    \*the music coordinator has given up, the music is Disney tune covers. The voiceover is hollering\* <strong>MEALTIME WITH MADDY</strong>
+    *the music coordinator has given up, the music is Disney tune covers. The voiceover is hollering* <strong>MEALTIME WITH MADDY</strong>
 </div>
 
 ![Dairy](images/low-res/01.jpg)
@@ -141,7 +141,7 @@ title: MAC'N'CHEESE
 1&frac12; cup | shredded sharp cheddar
 plenty | minced garlic
 a good bit of | paprika
-1&frac12; lb bag | noodles (if you can only find 1 lb bags, just use &frac23; the sauce)
+1&frac12; lb bag | noodles (if you can only find 1 lb bags, just use ⅔ the sauce)
 enough | panko
 maybe some | additions
 {: class="ingredients" }

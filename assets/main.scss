@@ -175,15 +175,17 @@ main {
                 font-family: "Ubuntu", sans-serif;
                 font-weight: 700;
             }
+
+            img {
+                max-width: 100%;
+            }
+        }
+        .bgfade {
             padding: 1rem;
             margin: 1rem auto;
             background: linear-gradient(#ffefee, #fff);
             border: 1px solid #fff;
             border-radius: 10px;
-
-            img {
-                max-width: 100%;
-            }
         }
 
         .half {
