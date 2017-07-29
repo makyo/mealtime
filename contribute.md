@@ -16,3 +16,5 @@ Sweet. Feel free to contribute! Maddy has just a few rules:
 3. Ingredients: ovo-lactic vegetarian dishes only. You don't need to be a vegetarian --- Maddy isn't --- but the goal is to show off good food that lots of people can eat. Vegan, raw, slow, probiotic, etc. are fine, but not required.
 4. Pictures: take lots of pictures, more than you think you'll use, because some will be trimmed out. Try to have stuff in focus, but don't worry too much otherwise.
 5. Recipes: provide an actual recipe along with the hollering. You can be goofy with it (e.g: `garlic: like a billion`), but do provide one.
+
+Throw underhand it to Maddy to <makyo+mtwm@drab-makyo.com>.
