@@ -110,7 +110,7 @@ maybe also some | spice. Gochujang, sriracha, chili oil, sesame seeds, etc.
 
 ### Method
 
-1. Make your rice. Bring the rice and water to a boil in a pot. Once it boils, *immediate* turn the heat down to the lowest setting on your stove. Give it a stir, and cover. Cook for fifteen minutes.
+1. Make your rice. Bring the rice and water to a boil in a pot. Once it boils, *immediately* turn the heat down to the lowest setting on your stove. Give it a stir, and cover. Cook for fifteen minutes.
 2. Chop up some veg. It'd be a good idea to blanch it, too: pour boiling water over it and let it sit for about thirty seconds before draining.
 3. Combine your egg, soy, veg, and spice in a bowl. Beat them up.
 4. Once your rice is done, beat that up, too, then re-cover and remove from heat. Let it sit for two minutes.
