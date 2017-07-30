@@ -97,6 +97,13 @@ Feel free to go nuts with it, though. You're all grown up.
 
 -----
 
+### Gear
+
+* A sauce pan, at least a quart
+* Serving bowl, but you're gonna mix stuff up in it
+* Chopsticks, fork, something to mix stuff up
+* A cup or whatever to blanch your veg in
+
 ### Ingredients
 
 ---|---

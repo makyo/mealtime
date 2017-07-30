@@ -33,11 +33,15 @@ h1, h2, h3, h4, h5, h6 {
     }
 }
 
-hr.clearfix {
+hr {
+    &::before {
+        content: "⭒ ⭑ ⭒";
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
+    border: none;
     display: block;
-    margin: 0;
-    padding: 0;
-    visibility: hidden;
     clear: both;
 }
 
@@ -147,14 +151,27 @@ main {
 
         img {
             max-width: 100%;
+            display: block;
+            margin: 0 auto;
         }
 
         .ingredients {
-            tr td:first-of-type {
-                text-align: right;
-                font-style: italic;
-                font-weight: bold;
-                padding-right: 0.5rem;
+            width: 100%;
+
+            tr td {
+                padding: 3px;
+                vertical-align: top;
+
+                &:last-of-type {
+                    padding-left: 0.5rem;
+                }
+                &:first-of-type {
+                    text-align: right;
+                    font-style: italic;
+                    font-weight: bold;
+                    padding-right: 0.5rem;
+                    min-width: 5em;
+                }
             }
         }
 

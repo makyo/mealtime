@@ -131,28 +131,40 @@ title: MAC'N'CHEESE
 
 -----
 
+### Gear
+
+* two small saucepans, at least a quart each
+* a big pan, at least five quarts
+* a baking dish, probably 9"x13"
+* a whisk
+* a cheese grater
+* an oven preheated to 400&deg;F
+
 ### Ingredients
 
 ---|---
 3 cups | milk
-&frac12; cup | nice, unsalted butter
-&frac12; cup | flour
-&frac12; cup | shredded parmesan or other hard cheese
-1&frac12; cup | shredded sharp cheddar
-plenty | minced garlic
-a good bit of | paprika
-1&frac12; lb bag | noodles (if you can only find 1 lb bags, just use ⅔ the sauce)
-enough | panko
-maybe some | additions
+&frac12; cup | butter
+&frac12; cup | AP flour
+many | cloves of garlic *(optional, but if you skip, please consider your life choices)*
+cheese | cheese: You want about three cups, yeah? Think maybe two and a half of a melty cheese, like sharp cheddar, and a half cup of a sharp cheese like parmesan, peccorino, or romano
+a bit of | paprika (*optional*)
+some | panko --- enough to cover your dish
+1&frac12; lb bag | large elbow pasta (if you can only find 1 lb bags, use only two thirds of your cheesy sauce; the rest will keep well in the fridge)
+extra | toppings or fillings, at your discretion. Peas? Caramelized onions? Diced serranos? A can of hatch green chilis? A whole lot of nothing? The sky's the limit, and you're an adult. You choose.
 {: class="ingredients" }
 
 ### Method
+1. Over medium-high heat, scald your milk: heat slowly, stirring frequently, until starts to bubble but not quite boil, then remove from heat.
+2. In your other pan, melt your butter over medium-high heat and add your minced garlic.
+3. Slowly incorporate the flour into your melted butter, stirring constantly. The mixture will thicken.
+4. Keep stirring your butter/flour mixture --- a roux --- over the heat. It will slowly start to darken in color. Once it reaches a peanut-butter colored brown, remove it from the heat.
+5. Start your noodles to boiling.
+6. Add your milk, one third at a time, to the roux, stirring constantly. It's gonna suck for a bit: the mixture will get super thick. Use a spoon to start, then switch to a whisk as the mixture gets thinner.
+7. Continue stirring your béchamel over medium heat until it gets silky and any graininess has disappeared. It shouldn't be thin; if it is, keep heating. It'll be thick enough when you can dip a spoon in, drag your finger across the back of the spoon, and the sauce won't re-cover the stripe.
+8. Mix your cheese into the béchamel, stir until it melts, but no further. Remove from the heat.
+9. When your noodles are done, drain and stir in your cheese sauce.
+10. Transfer your noodles to your dish --- it probably won't all fit, but the rest will keep in the fridge.
+11. Top with panko and toss into your oven for ten or fifteen minutes. If you like your topping browned, turn on the broiler for the last two minutes or so, but keep an eye on it so you don't burn it.
 
-1. In a big pot, cook your noodles to *al dente*.
-2. In one pot, scald your milk over medium-high heat. That'll be just as it starts bubbling, but not boiling. Stir to keep it from burning on the bottom. Remove from heat.
-3. In another pot at the same time, melt the butter with the minced garlic. Stir in your flour and keep stirring over medium heat. The color will darken over time --- once you hit peanut butter color, you can move on to...
-4. Slowly incorporate the milk into the roux one cup at a time. It'll suck at first, but keep going, it'll smooth out.
-5. Stir your béchamel over medium-high heat until it thickens. It should be thick enough that, when you dip a spoon in, you can draw your finger through the sauce on the back of the spoon and it won't fill it back in. You may not even need to thicken further from step 4.
-6. Stir your cheese and paprika into the béchamel bit by bit, then stir your noodles in to your sauce. if you're adding anything, now's the time.
-7. Pour your mac into an oven dish, top with panko, and put in a preheated-to-400&deg;F oven for idk like 20 minutes.
-8. Brown the panko under a broiler for a minute or two, then serve.
+*Serves idk 5 or 6.*
