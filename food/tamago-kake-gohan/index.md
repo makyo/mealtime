@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Crangeolli Slush
+title: Tamago Kake Gohan
 ---
 
 Tamago Kake Gohan is for mornings when your stomach is feeling a little rough. Or any other morning, but also those. If you leave out the spicy bits, it's nice and gentle.
